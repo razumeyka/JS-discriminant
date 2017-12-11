@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    background-image: url(../kl.jpg);
+    font-family:'Comfortaa', cursive;
+    font-size: 18px;
+}
